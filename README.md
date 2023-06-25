@@ -12,3 +12,4 @@ Predictive Analytics
   [Data Fit-for-Purpose](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/5/Exploratory%20data%20analysis.ipynb) | Snail exploratory data analysis (EDA)
   [Feature Engineering](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/6/Feature%20Engineering.ipynb) | Feature engineering
   [Regression Model](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/7/Regression%20model.ipynb) | Regression model
+  [Key Metrics](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/8/Key%20Metrics.ipynb) | Key Metrics
