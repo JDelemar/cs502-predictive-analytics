@@ -15,3 +15,4 @@ Predictive Analytics
   [Key Metrics](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/8/Key%20Metrics.ipynb) | Key Metrics
   [Hyperparameters](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/9/Hyperparameters.ipynb) | Hyperparameters
   [Travel Insurance Predictions](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/10/Travel%20Insurance%20Predictions.ipynb) | Travel Insurance Predictions
+  [Travel Insurance Model Tuning](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/11/Travel%20Insurance%20Model%20Tuning.ipynb) | Travel Insurance Model Tuning
