@@ -16,3 +16,4 @@ Predictive Analytics
   [Hyperparameters](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/9/Hyperparameters.ipynb) | Hyperparameters
   [Travel Insurance Predictions](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/10/Travel%20Insurance%20Predictions.ipynb) | Travel Insurance Predictions
   [Travel Insurance Model Tuning](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/11/Travel%20Insurance%20Model%20Tuning.ipynb) | Travel Insurance Model Tuning
+  [Diamond Dash Website](https://github.com/JDelemar/cs502-predictive-analytics/blob/main/Week/13/README.md) | Dash website based on diamond data
